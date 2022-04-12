@@ -1,3 +1,4 @@
+/* body element */ 
 body{
 	margin: 0;
 	font-family: 'Arial', sans-serif;
@@ -5,6 +6,7 @@ body{
 	line-height: 30px;
 
 }
+
 
 h1, h2{
 	font-family: 'Anek Tamil', sans-serif;
