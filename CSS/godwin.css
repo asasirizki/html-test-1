@@ -48,11 +48,11 @@ h2{
 	color: hotpink;
 	margin: 32px 0 10px;
 }
-
+/* text color for links */
 a{
 	color: deeppink;
 }
-
+/*for links, change color when cursor hovers over them */
 a:hover{
 	color: white;
 	background-color: hotpink;
@@ -70,6 +70,7 @@ footer p{
 }
 
 p.caption{
+	text-align: center;
 	color: navy;
 	font-style: italic;
 	margin-top: 0;
